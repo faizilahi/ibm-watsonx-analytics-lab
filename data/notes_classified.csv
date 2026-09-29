@@ -1,0 +1,41 @@
+note_id,text,domain,predicted_domain
+N0001,Patient stable after procedure,clinical,clinical
+N0002,Claim denied due to coding,claims,claims
+N0003,Quarterly revenue beat forecast,finance,finance
+N0004,MRI scheduled next week,clinical,clinical
+N0005,Patient stable after procedure,clinical,clinical
+N0006,Claim denied due to coding,claims,claims
+N0007,Quarterly revenue beat forecast,finance,finance
+N0008,MRI scheduled next week,clinical,clinical
+N0009,Patient stable after procedure,clinical,clinical
+N0010,Claim denied due to coding,claims,claims
+N0011,Quarterly revenue beat forecast,finance,finance
+N0012,MRI scheduled next week,clinical,clinical
+N0013,Patient stable after procedure,clinical,clinical
+N0014,Claim denied due to coding,claims,claims
+N0015,Quarterly revenue beat forecast,finance,finance
+N0016,MRI scheduled next week,clinical,clinical
+N0017,Patient stable after procedure,clinical,clinical
+N0018,Claim denied due to coding,claims,claims
+N0019,Quarterly revenue beat forecast,finance,finance
+N0020,MRI scheduled next week,clinical,clinical
+N0021,Patient stable after procedure,clinical,clinical
+N0022,Claim denied due to coding,claims,claims
+N0023,Quarterly revenue beat forecast,finance,finance
+N0024,MRI scheduled next week,clinical,clinical
+N0025,Patient stable after procedure,clinical,clinical
+N0026,Claim denied due to coding,claims,claims
+N0027,Quarterly revenue beat forecast,finance,finance
+N0028,MRI scheduled next week,clinical,clinical
+N0029,Patient stable after procedure,clinical,clinical
+N0030,Claim denied due to coding,claims,claims
+N0031,Quarterly revenue beat forecast,finance,finance
+N0032,MRI scheduled next week,clinical,clinical
+N0033,Patient stable after procedure,clinical,clinical
+N0034,Claim denied due to coding,claims,claims
+N0035,Quarterly revenue beat forecast,finance,finance
+N0036,MRI scheduled next week,clinical,clinical
+N0037,Patient stable after procedure,clinical,clinical
+N0038,Claim denied due to coding,claims,claims
+N0039,Quarterly revenue beat forecast,finance,finance
+N0040,MRI scheduled next week,clinical,clinical
